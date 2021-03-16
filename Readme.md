@@ -4,7 +4,7 @@ This Repository showcases my project, that I've created for my Internship task a
 
 I'm hosting this project at Heroku.
 Only PC view is available for now. <br>
-Go to https://basic-banking-system.herokuapp.com/ to see this project live.
+Go to http://basicbanksystem.kitchenqube.com to see this project live.
 
 ## How to start:
 
@@ -17,5 +17,3 @@ Go to https://basic-banking-system.herokuapp.com/ to see this project live.
 7. Run the code with XAAMP. You can reach out to me for queries. Details in my profile readme.
 
 ### Way To Technology 😍!
-
- 
